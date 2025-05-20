@@ -1,3 +1,5 @@
+<img src="https://your-cool-banner-url.com/banner.png" width="100%" />
+
 # 💫 About Me:
 I'm currently a student honing my skills in daily basis to get ahead.<br>Currently skilled on:<br>*HTML<br>*CSS<br>*JavaScript<br>*C/C++<br>***Video Editing<br>
 
@@ -14,5 +16,9 @@ I'm currently a student honing my skills in daily basis to get ahead.<br>Current
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ANKawsar&icon=0&color=0)](https://visitcount.itsvg.in)
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Languages](https://img.shields.io/badge/C%2B%2B-Intermediate-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
